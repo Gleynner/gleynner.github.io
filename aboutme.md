@@ -6,20 +6,22 @@ subtitle:
 
 Meu nome é Gleynner.
 
-### História
 
+### História  
 
-Sou graduado em Engenharia de Produção pela Universidade Federal de Viçosa (2015) e mestrando em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa (2018). 
-Atualmente sou doutorando no programa de pós-graduação em Estatística Aplicada e Biometria da UFV.
-Sou membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA). 
-Atuo principalmente com gerenciamento e análise de grandes conjuntos de dados na área de biometria, desenvolvendo trabalhos em seleção genômica ampla (GWS). 
+Sou graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometria, pela Universidade Federal de Viçosa.  
+Atualmente, sou membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA), onde atuo com gerenciamento e 
+análise de dados. 
+
 
 ### Competências
-- Conhecimentos avançados em programação;
-- Experiência com as linguagens Python e R; 
+- Programação em linguagem R; 
 - Análise exploratória de dados;
+- MIneração de dados;
 - Visualização de dados;
+- Microsoft Power BI;
 - Estatística experimental;
--Inferência Estatística;
+- Inferência Estatística;
+- Pesquisa;
 - Machine learning.
 
