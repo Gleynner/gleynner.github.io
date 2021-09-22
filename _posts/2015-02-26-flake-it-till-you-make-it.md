@@ -11,7 +11,7 @@ date: '2021-09-20'
 
 - Pós-graduação em Ciência de Dados e Big Data Analytics  
 Faculdade Metropolitana  
-04/2021 até presente
+Período 04/2021 até presente
 
 
 - Mestrado em Estatística Aplicada e Biometria  
