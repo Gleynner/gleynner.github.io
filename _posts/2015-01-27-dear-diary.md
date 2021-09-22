@@ -2,7 +2,7 @@
 layout: post
 title: Cursos de especialização
 published: true
-date: '2020-03-23'
+date: '2021-09-20'
 ---
 - Machine Learning e Data Science com R <br /> 
 [Udemy](https://www.https://www.udemy.com/) <br />
