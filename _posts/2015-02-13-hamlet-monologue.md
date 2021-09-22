@@ -3,29 +3,23 @@ layout: post
 title: Experiência
 tags: null
 published: true
-date: '2020-03-23'
+date: '2021-09-20'
 ---
-- Pesquisador  
-2020 –  
-Ciência e tecnologia  
+
+
+
+- Pesquisador / Coordenador de RH  
+Período: 03/2020 – presente 
+Consultoria e Essessoria em Estatística Aplicada  
 [Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA)](http://www.ppestbio.ufv.br/?page_id=2143)
 
 
-- Professor Temporário  
-Período: 2019 -2019  
-Florestal, Minas Gerais, Brasil  
-Disciplina: Estatística Aplicada às Ciências Biológicas e Agrárias, na disciplina CBF 790 - Tópicos  Especiais I, com duração de 30 horas (curso de verão).
-
-- Coordenador  
-Período: 2018 - 2019  
-Ciência e tecnologia  
-GESTBIO - [Grupo de Estudo em Estatística Aplicada e Biometria](https://www.gestbio.ufv.br/)  
+- Mestrado  
+Período: 03/2019 - 06/2021  
+Dissertação: Desempenho de testes de homogeneidade de variâncias em diferentes cenários simulados.
 
 
-
-
-- Instrutor  
-Empresa: Universidade Federal de Viçosa  
-2019 - 209  
-Ciência e tecnologia  
-Estatística Experimental: Análise com o software R (Treinamento - 24 horas)
+- Estágio
+Período: 10/2017 - 01/2018  
+Empresa: Frigorífico Avícola Esmeralda Martins Boró
+Controle Estatístico de Processo (CEP) aplicado as etapas de pré-resfriamento e congelamento da carcaça de frango.
