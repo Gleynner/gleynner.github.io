@@ -7,12 +7,23 @@ published: true
 date: '2020-03-23'
 ---
 
+
+
+- Pós-graduação em Ciência de Dados e Big Data Analytics
+Faculdade Metropolitana
+04/2021 até presente
+
+
 - Mestrado em Estatística Aplicada e Biometria  
 Universidade Federal de Viçosa(UFV)  
-Período 2016 – 2018  
+Período 03/2019 – 06/2021  
 
 
-
-- Graduação em Licenciatura em Matemática  
+- Graduação em Engenharia de Produção  
 Universidade Federal de Viçosa(UFV)  
-Período 2010 - 2016  
+Período 03/2012 - 03/2018  
+
+
+- Técnico em Eletromecânica
+Instituto Federal do Espírito Santo 
+Período 02/2006 a 12/2007
