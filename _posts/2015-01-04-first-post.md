@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ''
-image: /img/hello_world.jpeg
+image: 
 published: true
 ---
 
