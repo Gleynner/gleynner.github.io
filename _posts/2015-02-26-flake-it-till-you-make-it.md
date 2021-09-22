@@ -10,7 +10,7 @@ date: '2021-09-20'
 
 
 - Pós-graduação em Ciência de Dados e Big Data Analytics  
-Faculdade Metropolitana
+Faculdade Metropolitana  
 04/2021 até presente
 
 
@@ -24,6 +24,6 @@ Universidade Federal de Viçosa(UFV)
 Período 03/2012 - 03/2018  
 
 
-- Técnico em Eletromecânica
-Instituto Federal do Espírito Santo 
+- Técnico em Eletromecânica  
+Instituto Federal do Espírito Santo   
 Período 02/2006 a 12/2007
