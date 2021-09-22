@@ -12,4 +12,4 @@ published: true
 date: '2021-09-20'
 ---
 
-Apaixonado por ciências de dados, mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa e, atualmente, cursando pós-graduação em Ciência de Dados e Big Data Analytics.
+Apaixonado por ciências de dados, graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa e, atualmente, cursando pós-graduação em Ciência de Dados e Big Data Analytics.
