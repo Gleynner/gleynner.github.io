@@ -11,7 +11,7 @@ date: '2021-09-20'
 
 - Pós-graduação em Ciência de Dados e Big Data Analytics  
 Faculdade Metropolitana  
-Período 04/2021 até presente
+Período 04/2021 - presente
 
 
 - Mestrado em Estatística Aplicada e Biometria  
@@ -26,4 +26,4 @@ Período 03/2012 - 03/2018
 
 - Técnico em Eletromecânica  
 Instituto Federal do Espírito Santo   
-Período 02/2006 a 12/2007
+Período 02/2006 - 12/2007
