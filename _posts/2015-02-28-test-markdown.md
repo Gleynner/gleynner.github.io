@@ -8,8 +8,8 @@ gh-badge:
   - follow
 tags: null
 comments: true
-published: false
+published: true
 date: '2021-09-20'
 ---
 
-  Graduado em Engenharia de Produção e pós-graduado em Estatística Aplicada e Biometria, pela Universidade Federal de Viçosa, e apaixonado por análise e visuaçização de dados.
+  Graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa. Atualmente, é membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA), onde atuo como coordenador de Recursos Humanos e atuante em projetos análise estatísticas e de ciêncida de dados.
