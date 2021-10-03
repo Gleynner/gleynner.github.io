@@ -68,7 +68,7 @@ author:
 # Para modificar, basta adicionar o link do perfil em SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "gleynnerghiotto@gmail.com"
+#  email: "gleynnerghiotto@gmail.com"
   facebook: daattali
   github: daattali
 #  twitter: daattali
