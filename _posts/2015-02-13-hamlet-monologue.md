@@ -3,7 +3,6 @@ layout: post
 title: Experiência
 tags: null
 published: true
-date: '2021-09-20'
 ---
 
 
