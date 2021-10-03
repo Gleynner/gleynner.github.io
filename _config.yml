@@ -21,7 +21,7 @@ description: Minha página em construção
 # List of links in the navigation bar
 navbar-links:
   Sobre Mim: "aboutme"
-  Projetos: "add_projetos"
+  Projetos:
     
   Portfólio:
 
