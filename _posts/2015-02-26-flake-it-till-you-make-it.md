@@ -15,12 +15,12 @@ Período 04/2021 - presente
 
 
 - Mestrado em Estatística Aplicada e Biometria  
-Universidade Federal de Viçosa(UFV)  
+Universidade Federal de Viçosa   
 Período 03/2019 – 06/2021  
 
 
 - Graduação em Engenharia de Produção  
-Universidade Federal de Viçosa(UFV)  
+Universidade Federal de Viçosa    
 Período 03/2012 - 03/2018  
 
 
