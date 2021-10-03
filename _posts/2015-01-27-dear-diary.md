@@ -12,7 +12,7 @@ Carga horária: 28 horas
 [Udemy](https://www.https://www.udemy.com/)  
 Carga horária: 10 horas
 
-- Data Wrangling com R para Ciência de Dados 
+- Data Wrangling com R para Ciência de Dados   
 [Udemy](https://www.https://www.udemy.com/)  
 Carga horária: 14 horas
 
