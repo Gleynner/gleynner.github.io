@@ -8,8 +8,8 @@ gh-badge:
   - follow
 tags: null
 comments: true
-published: true
+published: false
 date: '2021-09-20'
 ---
 
-Apaixonado por ciências de dados, graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa e, atualmente, cursando pós-graduação em Ciência de Dados e Big Data Analytics.
+  Graduado em Engenharia de Produção e pós-graduado em Estatística Aplicada e Biometria, pela Universidade Federal de Viçosa, e apaixonado por análise e visuaçização de dados.
