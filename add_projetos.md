@@ -1,7 +1,7 @@
 ---
-layout: post
-title: ''
-published: true
+layout: page
+title: Projetos
+subtitle: 
 ---
 
 
