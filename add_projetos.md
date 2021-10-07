@@ -1,3 +1,10 @@
+---
+layout: page
+title: Sobre mim
+subtitle: 
+---
+
+
 # adicione o projeto aqui
 
 
