@@ -4,22 +4,23 @@ title: Sobre mim
 subtitle: 
 ---
 
-  Meu nome é Gleynner.
 
+### Resumo  
 
-### História  
+Graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa. Atualmente, sou colaborador no Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA), onde desempenho atividades de pesquisa e análise de dados. Durante minha jornada neste laboratório tive a oportunidade atuar na coordenação de RH e auxiliar na tomada de decisões, junto à coordenação geral, além de ministrar curso de capacitação, tanto para membros quanto para estudantes de graduação, atuar no planejamento de reuniões, na organização de eventos e outras atividades que venham a contribuir com o seu bom funcionamento.
 
-  Graduado em Engenharia de Produção e mestreado em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa. Atualmente, membro do Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA), onde trabalho com pesquisas e análise de dados, ministro cursos de capacitação interna e externa, no planejamento reuniões e confecção de suas respectivas atas, ajudo na organização de eventos, além de outras atividades que venham contribuir com o bom funcionamento da instituição.
+Minha formação me proporcionou uma base teórica sólida em campos como inferência estatística, probabilidade e matemática. Aliado à minha paixão por análise de dados, isto me ajudou a desenvolver e a buscar novos conhecimentos em programação. Tenho experiência com a linguagem R e, atualmente, buscando desenvolver tais habilidades em Python. Por meio de tais realizações, tornou-se possível a aplicação de meus conhecimentos em problemas do mundo real, auxiliando na tomada de decisão por meio de técnicas, como, análise exploratória e visualização de dados, estatística inferencial e algoritmos aprendizado de máquina e inteligência artificial.
+
 
 
 ### Competências
 
-- Programação em linguagem R 
+- Linguagem de programação R 
 - Mineração de dados
 - Visualização de dados
 - Microsoft Power BI
 - Estatística descritiva e preditiva 
 - Inferência estatística
 - Pesquisa
-- Machine learning
+- Aprendizado de máquina
 
