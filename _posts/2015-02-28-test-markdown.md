@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ' '
+title: 'Resumo'
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
