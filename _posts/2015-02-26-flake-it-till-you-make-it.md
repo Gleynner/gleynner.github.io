@@ -6,17 +6,15 @@ tags: null
 published: true
 ---
 
+- Mestrado em Estatística Aplicada e Biometria     
+Universidade Federal de Viçosa      
+Período 03/2019 – 06/2021        
 
-- Mestrado em Estatística Aplicada e Biometria     <br> 
-Universidade Federal de Viçosa      <br>   
-Período 03/2019 – 06/2021        <br>
-
-
-- Graduação em Engenharia de Produção        <br>
-Universidade Federal de Viçosa          <br>
-Período 03/2012 - 03/2018        <br>
+- Graduação em Engenharia de Produção      
+Universidade Federal de Viçosa          
+Período 03/2012 - 03/2018        
 
 
-- Técnico em Eletromecânica        <br>
-Instituto Federal do Espírito Santo         <br>
-Período 02/2006 - 12/2007      <br>
+- Técnico em Eletromecânica        
+Instituto Federal do Espírito Santo      
+Período 02/2006 - 12/2007      
