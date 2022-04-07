@@ -18,3 +18,14 @@ Período 03/2012 - 03/2018
 - Técnico em Eletromecânica        
 Instituto Federal do Espírito Santo      
 Período 02/2006 - 12/2007      
+
+
+### Competências
+
+- Linguagem de programação R 
+- Mineração de dados
+- Visualização de dados
+- Microsoft Power BI
+- Pesquisa
+- Estatística Inferencial
+- Aprendizado de máquina
