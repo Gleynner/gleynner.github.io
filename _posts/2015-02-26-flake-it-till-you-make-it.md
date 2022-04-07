@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Formação Acadêmica
 bigimg: /img/path.jpg
 tags: null
