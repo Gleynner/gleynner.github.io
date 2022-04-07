@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: Competências
+title: Competências
 #bigimg: /img/path.jpg
 tags: null
 published: true
