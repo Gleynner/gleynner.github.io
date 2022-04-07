@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Currículo
+title: 
 subtitle: 
 ---
 
@@ -9,19 +9,17 @@ subtitle:
 
 -  **Mestrado em Estatística Aplicada e Biometria**    
 Universidade Federal de Viçosa | 03/2019 a 06/2021
-<br>
 
 -  **Graduação em Engenharia de Produção**      
 Universidade Federal de Viçosa | 03/2012 a 03/2018
-<br>
 
 -  **Técnico em Eletromecânica**     
 Instituto Federal do Espírito Santo | 02/2006 a 12/2007
-
+<br>
 
 ## IDIOMA:
 -  Inglês – Intermediário.      
-
+<br>
 
 ##  EXPERIÊNCIA PROFISSIONAL:
 
@@ -56,6 +54,7 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
   + Coleta de dados da variável crítica do processo, temperatura da carcaça de frango;
   + Análise da variabilidade por meio do uso de gráficos de controle da média, desvio-padrão e da média móvel exponencialmente ponderada (EWMA);
   + Obtenção do índice de capacidade do processo (Cpk).
+<br>
 
 ## FORMAÇÃO COMPLEMENTAR
 
