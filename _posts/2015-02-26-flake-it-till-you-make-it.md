@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Formação Acadêmica
-bigimg: /img/path.jpg
+#bigimg: /img/path.jpg
 tags: null
 published: true
 ---
