@@ -1,8 +1,8 @@
 ---
 layout: page
-title: ' '
+title: Currículo
 ---
-
+     
 
 ## FORMAÇÃO ACADÊMICA
 
