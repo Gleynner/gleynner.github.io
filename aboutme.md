@@ -1,25 +1,75 @@
 ---
 layout: page
-title: Sobre mim
+title: Currículo
 subtitle: 
 ---
 
 
-### Resumo  
+## FORMAÇÃO ACADÊMICA
 
-Graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa. Atualmente, sou colaborador no Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA), onde desempenho atividades de pesquisa e análise de dados. Durante minha jornada neste laboratório tive a oportunidade atuar na coordenação de RH e auxiliar na tomada de decisões, junto à coordenação geral, além de ministrar curso de capacitação, tanto para membros quanto para estudantes de graduação, atuar no planejamento de reuniões, na organização de eventos e outras atividades que venham a contribuir com o seu bom funcionamento.
+-  **Mestrado em Estatística Aplicada e Biometria**    
+Universidade Federal de Viçosa | 03/2019 a 06/2021
+<br>
 
-Minha formação me proporcionou uma base teórica sólida em campos como inferência estatística, probabilidade e matemática. Aliado à minha paixão por análise de dados, isto me ajudou a desenvolver e a buscar novos conhecimentos em programação. Tenho experiência com a linguagem R e, atualmente, buscando desenvolver tais habilidades em Python. Por meio de tais realizações, tornou-se possível a aplicação de meus conhecimentos em problemas do mundo real, auxiliando na tomada de decisão por meio de técnicas, como, análise exploratória e visualização de dados, estatística inferencial e algoritmos aprendizado de máquina e inteligência artificial.
+-  **Graduação em Engenharia de Produção**      
+Universidade Federal de Viçosa | 03/2012 a 03/2018
+<br>
+
+-  **Técnico em Eletromecânica**     
+Instituto Federal do Espírito Santo | 02/2006 a 12/2007
+
+
+## IDIOMA:
+-  Inglês – Intermediário.      
+
+
+##  EXPERIÊNCIA PROFISSIONAL:
+
+### Laboratório de Análises e Pesquisas em Estatística Aplicada | Pesquisador (03/2020 até presente)
+
+- Ministrante em Capacitação em Estatística Experimental apresentado ao Grupo de Extensão e Pesquisa em Agricultura Integrada (GEPAI) da UFV;
+- Comissão coordenadora no evento "Webinário de Ciência de Dados e Inovação";
+- Ministrante em minicurso de linguagem R, intitulado: “R para iniciantes”;
+- Execução de projeto de análise de dados prestado a Bayer. Atividades desenvolvidas:
+  + Manipulação e tratamento de dados;
+  + Análise exploratória;
+  + Aplicação de modelos estatísticos;
+  + Visualização de dados (tabelas e gráficos);
+  + Relatório em HTML e word.
+- Análise de dados para estudante da UFV para trabalho de conclusão de curso:
+  + Manipulação de dados;
+  + Análise estatística de dados disponibilizados no site do RAEX;
+  + Produção de tabelas e gráficos;
+  + Orientação na interpretação dos resultados.
+
+###  Mestrado em Estatística Aplicada e Biometria - Universidade Federal de Viçosa (03/2019 a 06/2021)
+
+- Dissertação: Desempenho de testes de homogeneidade de variâncias em diferentes cenários simulados.
+  + Estudo de simulação de dados utilizando o software R;
+  + Avaliação de testes de homogeneidade de variâncias paramétricos e não paramétricos;
+  + Avaliação dos aspectos: proporção de heterogeneidade, proporção de desbalanceamento e distribuição de probabilidades;
+  + Classificação dos testes quanto a taxa empírica do erro tipo I e poder do teste em cada cenário simulado. 
+
+### Estagiário em Frigorífico Avícola Esmeralda Martins Boró (10/2017 a 01/2018)
+
+- Controle Estatístico de Processo (CEP) aplicado as etapas de pré-resfriamento e congelamento da carcaça de frango:
+  + Coleta de dados da variável crítica do processo, temperatura da carcaça de frango;
+  + Análise da variabilidade por meio do uso de gráficos de controle da média, desvio-padrão e da média móvel exponencialmente ponderada (EWMA);
+  + Obtenção do índice de capacidade do processo (Cpk).
+
+## FORMAÇÃO COMPLEMENTAR
+
+- Introdução ao R – LICAE (UFV)
+- Introdução a linguagem de programação R – LICAE (UFV)
+- R Markdown – GESTBIO (UFV)
+- Ciência de dados com R – Udemy
+- Data Wrangling com R para ciência de dados – Udemy
+- Machine Learning e Data Science com R de A à Z – Udemy
+- Power BI Completo - Do Básico ao Avançado – Udemy
+- Data Science e Machine Learning com Estatística e Python – Udemy
 
 
 
-### Competências
 
-- Linguagem de programação R 
-- Mineração de dados
-- Visualização de dados
-- Microsoft Power BI
-- Pesquisa
-- Estatística Inferencial
-- Aprendizado de máquina
+
 
