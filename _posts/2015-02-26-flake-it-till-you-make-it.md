@@ -6,8 +6,6 @@ tags: null
 published: true
 ---
 
-### Competências
-
 - Linguagem de programação R 
 - Mineração de dados
 - Visualização de dados
