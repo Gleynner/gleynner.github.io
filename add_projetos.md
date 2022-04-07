@@ -1,13 +1,21 @@
 ---
 layout: page
-title: Projetos
+title: Meu portfólio
 subtitle: 
 ---
 
 
-# adicione o projeto aqui
+## Projetos em R
+
+#### Regras de associação
+- Codificação
+- Relatório
+
+#### Análise de personalidade do cliente
+- Codificação
+- Relatório
 
 
-### projeto 1
+### Projetos em Python
 
-- teste
+
