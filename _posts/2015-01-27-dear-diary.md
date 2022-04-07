@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Cursos de especialização
 published: true
 date: '2021-09-20'
