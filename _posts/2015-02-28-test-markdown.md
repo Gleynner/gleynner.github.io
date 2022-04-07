@@ -8,6 +8,7 @@ gh-badge:
   - follow
 tags: null
 ---
+<style> body {text-align: justify} </style>
 
 Graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometria pela Universidade Federal de Viçosa. Atualmente, sou colaborador no Laboratório de Análises e Pesquisas em Estatística Aplicada (LAPEA), onde desempenho atividades de pesquisa e análise de dados. Durante minha jornada neste laboratório tive a oportunidade atuar na coordenação de RH e auxiliar na tomada de decisões, junto à coordenação geral, além de ministrar curso de capacitação, tanto para membros quanto para estudantes de graduação, atuar no planejamento de reuniões, na organização de eventos e outras atividades que venham a contribuir com o seu bom funcionamento.
 
