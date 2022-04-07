@@ -59,14 +59,14 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
 
 ## FORMAÇÃO COMPLEMENTAR
 
-- Introdução ao R – LICAE (UFV)
-- Introdução a linguagem de programação R – LICAE (UFV)
-- R Markdown – GESTBIO (UFV)
-- Ciência de dados com R – Udemy
-- Data Wrangling com R para ciência de dados – Udemy
-- Machine Learning e Data Science com R de A à Z – Udemy
-- Power BI Completo - Do Básico ao Avançado – Udemy
-- Data Science e Machine Learning com Estatística e Python – Udemy
+- Introdução ao R – LICAE (UFV)   [link do certificado](https://drive.google.com/file/d/1_JKdjPCZRuvmmu11ojJIUD20hGMk-Gsf/view)
+- Introdução a linguagem de programação R – LICAE (UFV)   [link do certificado](https://drive.google.com/file/d/18U_vFiFc9QchOZDlLM4qeIWhm05x22gp/view)  
+- R Markdown – GESTBIO (UFV)    [link do certificado](https://drive.google.com/file/d/1t_xEqCWawy1mrmoqi2JsxwXPCl1nqWaR/view)  
+- Ciência de dados com R – Udemy    [link do certificado](https://www.udemy.com/certificate/UC-e53ae412-d0d9-4242-a32f-8bd775e8e280/)
+- Data Wrangling com R para ciência de dados – Udemy    [link do certificado](https://www.udemy.com/certificate/UC-b16bb624-0e87-47bc-a792-92d2c1ffafe4/)
+- Machine Learning e Data Science com R de A à Z – Udemy    [link do certificado](https://www.udemy.com/certificate/UC-702267d2-c92f-4549-b40e-b6ef60be93f7/)
+- Power BI Completo - Do Básico ao Avançado – Udemy   [link do certificado](https://www.udemy.com/certificate/UC-6b141fba-9940-4a23-93b5-dbf5295571f4/)
+- Data Science e Machine Learning com Estatística e Python – Udemy    [link do certificado](https://www.udemy.com/certificate/UC-d2d432a0-cdc5-4d2d-8c3c-6f944bef53f8/)
 
 
 
