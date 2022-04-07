@@ -18,4 +18,7 @@ subtitle:
 
 ### Projetos em Python
 
+#### Regras de associação
+
+#### Análise de personalidade do cliente
 
