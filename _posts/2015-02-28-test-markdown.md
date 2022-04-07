@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: ' '
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
