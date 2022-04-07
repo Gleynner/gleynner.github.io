@@ -19,8 +19,7 @@ Minha formação me proporcionou uma base teórica sólida em campos como infer�
 - Mineração de dados
 - Visualização de dados
 - Microsoft Power BI
-- Estatística descritiva e preditiva 
-- Inferência estatística
 - Pesquisa
+- Estatística Inferencial
 - Aprendizado de máquina
 
