@@ -20,4 +20,5 @@ Minha formação me proporcionou uma base teórica sólida em campos como infer�
 **Telefone/Whatsapp:** (31) 99498-1925     <br>
 **E-mail:** gleynnerghiotto@gmail.com / gleynnerghiotto@outlook.com      <br>
 **LinkedIn:** https://www.linkedin.com/in/gleynner-ghiotto-558b2914b/      <br>
+**Github**: https://github.com/Gleynner
 
