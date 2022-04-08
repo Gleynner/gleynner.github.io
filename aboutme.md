@@ -22,7 +22,8 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
 
 ##  EXPERIÊNCIA PROFISSIONAL:
 
-#### Laboratório de Análises e Pesquisas em Estatística Aplicada | Pesquisador (03/2020 até presente)
+#### Laboratório de Análises e Pesquisas em Estatística Aplicada | Pesquisador 
+#### 03/2020 até presente
 
 - Ministrante em Capacitação em Estatística Experimental apresentado ao Grupo de Extensão e Pesquisa em Agricultura Integrada (GEPAI) da UFV;
 - Comissão coordenadora no evento "Webinário de Ciência de Dados e Inovação";
@@ -39,7 +40,8 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
   + Produção de tabelas e gráficos;
   + Orientação na interpretação dos resultados.
 
-####  Mestrado em Estatística Aplicada e Biometria - Universidade Federal de Viçosa (03/2019 a 06/2021)
+####  Mestrado em Estatística Aplicada e Biometria - Universidade Federal de Viçosa 
+#### 03/2019 a 06/2021
 
 - Dissertação: Desempenho de testes de homogeneidade de variâncias em diferentes cenários simulados.
   + Estudo de simulação de dados utilizando o software R;
@@ -47,7 +49,8 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
   + Avaliação dos aspectos: proporção de heterogeneidade, proporção de desbalanceamento e distribuição de probabilidades;
   + Classificação dos testes quanto a taxa empírica do erro tipo I e poder do teste em cada cenário simulado. 
 
-#### Estagiário em Frigorífico Avícola Esmeralda Martins Boró (10/2017 a 01/2018)
+#### Estagiário em Frigorífico Avícola Esmeralda Martins Boró 
+#### 10/2017 a 01/2018
 
 - Controle Estatístico de Processo (CEP) aplicado as etapas de pré-resfriamento e congelamento da carcaça de frango:
   + Coleta de dados da variável crítica do processo, temperatura da carcaça de frango;
