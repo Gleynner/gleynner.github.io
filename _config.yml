@@ -69,10 +69,10 @@ social-network-links:
 #  rss: true
   email: "gleynnerghiotto@gmail.com"
 #  facebook: daattali
-#  github: daattali
+  github: https://github.com/Gleynner
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: https://www.linkedin.com/in/gleynner-ghiotto-558b2914b/
+  linkedin: "https://www.linkedin.com/in/gleynner-ghiotto-558b2914b/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
