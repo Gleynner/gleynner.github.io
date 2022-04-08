@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Currículo
+title: curriculum vitae
 ---
     
           
