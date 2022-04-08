@@ -8,8 +8,8 @@ subtitle:
 ## Projetos em R
 
 #### Regras de associação
-- Codificação
-- Relatório
+- [Codificação da análise] (http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao_CODIFICACAO.html)
+- [Relatório markdown] (http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao_RELATORIO.html)
 
 #### Análise de personalidade do cliente
 - Codificação
