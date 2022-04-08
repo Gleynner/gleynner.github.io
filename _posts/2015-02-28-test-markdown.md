@@ -14,7 +14,9 @@ Graduado em Engenharia de Produção e mestre em Estatística Aplicada e Biometr
 
 Minha formação me proporcionou uma base teórica sólida em campos como inferência estatística, probabilidade e matemática. Aliado à minha paixão por análise de dados, isto me ajudou a desenvolver e a buscar novos conhecimentos em programação. Tenho experiência com a linguagem R e, atualmente, buscando desenvolver tais habilidades em Python. Por meio de tais realizações, tornou-se possível a aplicação de meus conhecimentos em problemas do mundo real, auxiliando na tomada de decisão por meio de técnicas, como, análise exploratória e visualização de dados, estatística inferencial e algoritmos aprendizado de máquina e inteligência artificial.
 
+
 <br>
+
 **Nome:** Gleynner Ghiotto Lima de Menezes     <br>
 **Endereço:** Viçosa - Minas Gerais     <br>
 **Telefone/Whatsapp:** (31) 99498-1925     <br>
