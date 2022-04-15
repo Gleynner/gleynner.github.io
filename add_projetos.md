@@ -15,5 +15,8 @@ subtitle:
 - [Codificação da análise](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_CODIFICACAO)
 - [Relatório markdown](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_RELATORIO)
 
+#### Análise de variância (ANOVA)
+
+  - [OVA com mais de uma variável resposta](http://htmlpreview.github.io/?https://github.com/Gleynner/Analise_de_variancia_ANOVA/blob/main/ANOVA_mais_de_uma_variavel_resposta.html)
 
 
