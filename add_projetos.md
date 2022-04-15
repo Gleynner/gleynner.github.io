@@ -12,7 +12,7 @@ subtitle:
 - [Relatório (no code)](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao_RELATORIO.html)
 
 #### Análise de personalidade do cliente (k-means)
-- [Codificação da análise](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_CODIFICACAO)
+- [Codificação da análise](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_CODIFICACAO.html)
 - [Relatório (no code)](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_RELATORIO)
 
 #### Análise de variância (ANOVA)
