@@ -5,13 +5,13 @@ subtitle:
 ---
 
 
-## Projetos em R
+## Projetos em R (apriori)
 
 #### Regras de associação
 - [Codificação da análise](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao_CODIFICACAO.html)
 - [Relatório markdown](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao_RELATORIO.html)
 
-#### Análise de personalidade do cliente
+#### Análise de personalidade do cliente (k-means)
 - [Codificação da análise](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_CODIFICACAO)
 - [Relatório markdown](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_RELATORIO)
 
