@@ -5,9 +5,9 @@ subtitle:
 ---
 
 
-## Projetos em R (apriori)
+## Projetos em R
 
-#### Regras de associação
+#### Regras de associação (apriori)
 - [Codificação da análise](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao_CODIFICACAO.html)
 - [Relatório markdown](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao_RELATORIO.html)
 
