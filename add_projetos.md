@@ -17,6 +17,6 @@ subtitle:
 
 #### Análise de variância (ANOVA)
 
-  - [OVA com mais de uma variável resposta](http://htmlpreview.github.io/?https://github.com/Gleynner/Analise_de_variancia_ANOVA/blob/main/ANOVA_mais_de_uma_variavel_resposta.html)
+  - [ANOVA com mais de uma variável resposta](http://htmlpreview.github.io/?https://github.com/Gleynner/Analise_de_variancia_ANOVA/blob/main/ANOVA_mais_de_uma_variavel_resposta.html)
 
 
