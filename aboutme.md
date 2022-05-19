@@ -34,8 +34,7 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
 
 - Análise de dados financeiros, econômicos e geodemográficos dos municípios brasileiros (de 2016) e aplicação da metodologia Mapas de Kohonen para a detecção de similaridades (padrões), importância de variáveis e sua intensidade entre os grupos de cidades. Após, foi realizada a distribuição geoespacial com relação as variáveis definidas como importantes para cada grupo.
 
-- Dissertação: Desempenho de testes de homogeneidade de variâncias em diferentes cenários simulados.
->Estudo de simulação de dados para a avaliação de testes de homogeneidade de variâncias, paramétricos e não paramétricos, sob diferentes cenários, gerados a partir dos seguintes aspectos: proporção de heterogeneidade, proporção de desbalanceamento e distribuição de probabilidades. Tais cenários visam avaliar o desempenho quanto a satisfação e violação de suas pressuposições. O desempenho do teste foi avaliado quanto a taxa empírica do erro tipo I e poder do teste e identificou-se o mais adequado para cada cenário estudado. 
+- Dissertação: Desempenho de testes de homogeneidade de variâncias em diferentes cenários simulados. Estudo de simulação de dados para a avaliação de testes de homogeneidade de variâncias, paramétricos e não paramétricos, sob diferentes cenários, gerados a partir dos seguintes aspectos: proporção de heterogeneidade, proporção de desbalanceamento e distribuição de probabilidades. Tais cenários visam avaliar o desempenho quanto a satisfação e violação de suas pressuposições. O desempenho do teste foi avaliado quanto a taxa empírica do erro tipo I e poder do teste e identificou-se o mais adequado para cada cenário estudado. 
 
 #### Estagiário em Frigorífico Avícola Esmeralda Martins Boró 
 #### 10/2017 a 01/2018
