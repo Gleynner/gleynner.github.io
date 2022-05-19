@@ -17,10 +17,6 @@ Universidade Federal de Viçosa | 03/2012 a 03/2018
 Instituto Federal do Espírito Santo | 02/2006 a 12/2007
 <br>
 
-## IDIOMA:
--  Inglês – Intermediário.      
-<br>
-
 ##  EXPERIÊNCIA PROFISSIONAL:
 
 #### Laboratório de Análises e Pesquisas em Estatística Aplicada | Pesquisador 
@@ -46,6 +42,10 @@ Estudo de simulação de dados para a avaliação de testes de homogeneidade de 
 #### 10/2017 a 01/2018
 
 - Coleta de dados e controle estatístico de processo (CEP) aplicado as etapas de pré-resfriamento e congelamento da carcaça de frango. Para a aplicação do CEP foram utilizados os gráficos de controle da média, desvio-padrão e da média móvel exponencialmente ponderada (EWMA), além da obtenção do índice de capacidade do processo (Cpk).
+<br>
+
+## IDIOMA:
+-  Inglês – Intermediário.      
 <br>
 
 ## FORMAÇÃO COMPLEMENTAR
