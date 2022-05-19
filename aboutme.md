@@ -28,14 +28,15 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
 
 - Análise de dados gerados pela aplicação de questionário à equipe multiprofissional sobre a cultura de segurança do paciente em um ambulatório de saúde, utilizando técnicas de manipulação de dados, análise exploratória, construção de gráficos e tabelas e aplicação do teste de Cronbach para a avaliar a confiabilidade e consistência da pesquisa.
 - Ministrante em Capacitação em Estatística Experimental apresentado ao Grupo de Extensão e Pesquisa em Agricultura Integrada (GEPAI) da UFV.
-- Fez parte da comissão coordenadora no evento "Webinário de Ciência de Dados e Inovação";
-- Ministrante em minicurso de linguagem R, intitulado: “R para iniciantes”;
+- Fez parte da comissão coordenadora no evento "Webinário de Ciência de Dados e Inovação".
+- Ministrante em minicurso de linguagem R, intitulado: “R para iniciantes”.
 - Execução de projeto de análise de dados prestado a empresa Bayer, envolvendo atividades de manipulação de dados, análise exploratória, aplicação de modelos estatísticos, visualização de dados por meio de gráficos e tabelas, apresentação periódicas aos stakeholders e confecção de relatório final.
 - Análise de dados para trabalho de conclusão de curso de estudante da UFV. Foram realizadas atividades de manipulação de dados, análise estatística, produção de gráficos e tabelas e orientação na interpretação dos resultados.
 
 ####  Mestrado em Estatística Aplicada e Biometria - Universidade Federal de Viçosa 
 #### 03/2019 a 06/2021
 
+- Análise de dados financeiros, econômicos e geodemográficos dos municípios brasileiros (de 2016) e aplicação da metodologia Mapas de Kohonen para a detecção de similaridades (padrões), importância de variáveis e sua intensidade entre os grupos de cidades. Após, foi realizada a distribuição geoespacial com relação as variáveis definidas como importantes para cada grupo.
 
 - Dissertação: Desempenho de testes de homogeneidade de variâncias em diferentes cenários simulados.
 
