@@ -45,8 +45,7 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
       
 ## IDIOMA:
 -  Inglês – Intermediário.      
-<br>
-     
+<br>    
 ## FORMAÇÃO COMPLEMENTAR
 
 - Introdução ao R – LICAE (UFV)   [link do certificado](https://drive.google.com/file/d/1_JKdjPCZRuvmmu11ojJIUD20hGMk-Gsf/view)
