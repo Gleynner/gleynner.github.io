@@ -44,6 +44,7 @@ Estudo de simulação de dados para a avaliação de testes de homogeneidade de 
 - Coleta de dados e controle estatístico de processo (CEP) aplicado as etapas de pré-resfriamento e congelamento da carcaça de frango. Para a aplicação do CEP foram utilizados os gráficos de controle da média, desvio-padrão e da média móvel exponencialmente ponderada (EWMA), além da obtenção do índice de capacidade do processo (Cpk).
 <br>
 <br>
+
 ## IDIOMA:
 -  Inglês – Intermediário.      
 <br>
