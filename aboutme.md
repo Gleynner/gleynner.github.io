@@ -26,37 +26,25 @@ Instituto Federal do Espírito Santo | 02/2006 a 12/2007
 #### Laboratório de Análises e Pesquisas em Estatística Aplicada | Pesquisador 
 #### 03/2020 até presente
 
-- Ministrante em Capacitação em Estatística Experimental apresentado ao Grupo de Extensão e Pesquisa em Agricultura Integrada (GEPAI) da UFV;
-- Comissão coordenadora no evento "Webinário de Ciência de Dados e Inovação";
+- Análise de dados gerados pela aplicação de questionário à equipe multiprofissional sobre a cultura de segurança do paciente em um ambulatório de saúde, utilizando técnicas de manipulação de dados, análise exploratória, construção de gráficos e tabelas e aplicação do teste de Cronbach para a avaliar a confiabilidade e consistência da pesquisa.
+- Ministrante em Capacitação em Estatística Experimental apresentado ao Grupo de Extensão e Pesquisa em Agricultura Integrada (GEPAI) da UFV.
+- Fez parte da comissão coordenadora no evento "Webinário de Ciência de Dados e Inovação";
 - Ministrante em minicurso de linguagem R, intitulado: “R para iniciantes”;
-- Execução de projeto de análise de dados prestado a Bayer. Atividades desenvolvidas:
-  + Manipulação e tratamento de dados;
-  + Análise exploratória;
-  + Aplicação de modelos estatísticos;
-  + Visualização de dados (tabelas e gráficos);
-  + Relatório em HTML e word.
-- Análise de dados para estudante da UFV para trabalho de conclusão de curso:
-  + Manipulação de dados;
-  + Análise estatística de dados disponibilizados no site do RAEX;
-  + Produção de tabelas e gráficos;
-  + Orientação na interpretação dos resultados.
+- Execução de projeto de análise de dados prestado a empresa Bayer, envolvendo atividades de manipulação de dados, análise exploratória, aplicação de modelos estatísticos, visualização de dados por meio de gráficos e tabelas, apresentação periódicas aos stakeholders e confecção de relatório final.
+- Análise de dados para trabalho de conclusão de curso de estudante da UFV. Foram realizadas atividades de manipulação de dados, análise estatística, produção de gráficos e tabelas e orientação na interpretação dos resultados.
 
 ####  Mestrado em Estatística Aplicada e Biometria - Universidade Federal de Viçosa 
 #### 03/2019 a 06/2021
 
+
 - Dissertação: Desempenho de testes de homogeneidade de variâncias em diferentes cenários simulados.
-  + Estudo de simulação de dados utilizando o software R;
-  + Avaliação de testes de homogeneidade de variâncias paramétricos e não paramétricos;
-  + Avaliação dos aspectos: proporção de heterogeneidade, proporção de desbalanceamento e distribuição de probabilidades;
-  + Classificação dos testes quanto a taxa empírica do erro tipo I e poder do teste em cada cenário simulado. 
+
+Estudo de simulação de dados para a avaliação de testes de homogeneidade de variâncias, paramétricos e não paramétricos, sob diferentes cenários, gerados a partir dos seguintes aspectos: proporção de heterogeneidade, proporção de desbalanceamento e distribuição de probabilidades. Tais cenários visam avaliar o desempenho quanto a satisfação e violação de suas pressuposições. O desempenho do teste foi avaliado quanto a taxa empírica do erro tipo I e poder do teste e identificou-se o mais adequado para cada cenário estudado. 
 
 #### Estagiário em Frigorífico Avícola Esmeralda Martins Boró 
 #### 10/2017 a 01/2018
 
-- Controle Estatístico de Processo (CEP) aplicado as etapas de pré-resfriamento e congelamento da carcaça de frango:
-  + Coleta de dados da variável crítica do processo, temperatura da carcaça de frango;
-  + Análise da variabilidade por meio do uso de gráficos de controle da média, desvio-padrão e da média móvel exponencialmente ponderada (EWMA);
-  + Obtenção do índice de capacidade do processo (Cpk).
+- Coleta de dados e controle estatístico de processo (CEP) aplicado as etapas de pré-resfriamento e congelamento da carcaça de frango. Para a aplicação do CEP foram utilizados os gráficos de controle da média, desvio-padrão e da média móvel exponencialmente ponderada (EWMA), além da obtenção do índice de capacidade do processo (Cpk).
 <br>
 
 ## FORMAÇÃO COMPLEMENTAR
