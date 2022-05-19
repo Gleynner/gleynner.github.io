@@ -1,15 +1,27 @@
 ---
 layout: page
-title: Competências
+title: Competências e Soft Skills
 #bigimg: /img/path.jpg
 tags: null
 published: true
 ---
 
-- Linguagem de programação R 
-- Mineração de dados
-- Visualização de dados
-- Microsoft Power BI
-- Pesquisa
-- Estatística Inferencial
-- Aprendizado de máquina
+## Competências:     <br>
+
+- Linguagem de programação R      <br>
+- Python       <br>
+- Mineração de dados      <br>
+- Visualização de dados      <br>
+- Estatística Inferencial       <br>
+- Aprendizado de máquina      <br>
+- Microsoft Power BI      <br>
+- Pesquisa      <br>
+
+
+## Soft Skills:     <br>
+
+- Resolução de problemas      <br>
+- Pensamento crítico      <br>
+- Pensamento analítico      <br>
+- Resiliente, tolerante e flexível      <br>
+- Aprendizado ativo      <br>
