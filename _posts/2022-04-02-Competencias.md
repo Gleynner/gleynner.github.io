@@ -23,5 +23,5 @@ published: true
 - Resolução de problemas      <br>
 - Pensamento crítico      <br>
 - Pensamento analítico      <br>
-- Resiliente, tolerante e flexível      <br>
+- Resiliência, tolerância e flexibilidade      <br>
 - Aprendizado ativo      <br>
