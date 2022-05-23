@@ -21,3 +21,12 @@ subtitle:
 - [ANOVA com mais de uma variável resposta](http://htmlpreview.github.io/?https://github.com/Gleynner/Analise_de_variancia_ANOVA/blob/main/ANOVA_mais_de_uma_variavel_resposta.html)
 
 
+
+# Projetos em Python
+
+#### Análise de sobrevivência ao naufrágio do Titanic
+
+- [Análise](https://github.com/Gleynner/analise_sobrevivencia_titanic_python/blob/main/analise_titanic_ML.ipynb)
+
+
+
