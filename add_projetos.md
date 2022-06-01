@@ -7,8 +7,9 @@ subtitle:
 
 # Projetos em R
 
-#### [Regras de associação (apriori)](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao.html)
-- [Relatório da análise de regras de associação (no code)](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Relatorio_regras_associacao.html)
+#### Regras de associação com o algorítmo "apriori"
+- [Códigos R](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao.html)
+- [Relatório (no code)](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Relatorio_regras_associacao.html)
 
 #### Análise de personalidade do cliente (k-means)
 - [Codificação da análise](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente_CODIFICACAO.html)
