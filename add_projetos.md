@@ -24,7 +24,8 @@ subtitle:
 
 # Projetos em Python
 
-#### [Análise de sobrevivência ao naufrágio do Titanic (machine learning)](https://github.com/Gleynner/analise_sobrevivencia_titanic_python/blob/main/analise_titanic_ML.ipynb)
+#### [Análise de sobrevivência ao naufrágio do Titanic (machine learning)](http://htmlpreview.github.io/?https://github.com/Gleynner/analise_sobrevivencia_titanic_python/blob/main/analise_titanic_ML.html)
+
 
 
 
