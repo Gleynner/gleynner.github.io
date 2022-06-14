@@ -26,6 +26,8 @@ subtitle:
 
 #### [Análise de sobrevivência ao naufrágio do Titanic (machine learning)](http://htmlpreview.github.io/?https://github.com/Gleynner/analise_sobrevivencia_titanic_python/blob/main/analise_titanic_ML.html)
 
+#### [Análise geoespacial e preditiva de valores de imóveis na cidade de São Paulo](http://htmlpreview.github.io/?https://github.com/Gleynner/Analise_valor_imoveis_SP_Python/blob/main/Analise_imoveis_sp_GEO_ML.html)
+
 
 
 
