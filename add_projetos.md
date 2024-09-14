@@ -9,11 +9,11 @@ subtitle:
 
 #### Regras de associação com o algorítmo "apriori"
 - [Códigos em R](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Regras_de_associacao.html)
-- [Relatório (no code)](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Relatorio_regras_associacao.html)
+- [Relatório](http://htmlpreview.github.io/?https://github.com/Gleynner/Regras_de_associacao-apriori/blob/main/Relatorio_regras_associacao.html)
 
 #### Análise de personalidade do cliente (k-means)
 - [Códigos em R](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Personalidade_do_cliente.html)
-- [Relatório (no code)](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Relatorio_personalidade_do_cliente.html)
+- [Relatório](http://htmlpreview.github.io/?https://github.com/Gleynner/Personalidade_do_cliente-K-means/blob/main/Relatorio_personalidade_do_cliente.html)
 
 #### Análise de variância (ANOVA)
 
